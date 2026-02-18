@@ -1,0 +1,125 @@
+{
+  "behavioral_cues": [
+    {
+      "timestamp": "00:20",
+      "type": "positive",
+      "quote": "Yep, sounds great. I'm ready.",
+      "context": "Initial reaction to the scenario setup."
+    },
+    {
+      "timestamp": "00:37",
+      "type": "vocal_marker",
+      "quote": "Okay",
+      "context": "Transitioning to the start of the task."
+    },
+    {
+      "timestamp": "00:43",
+      "type": "positive",
+      "quote": "Oh, nice. This form is pretty straightforward.",
+      "context": "Reaction to the 'List your gear' form layout."
+    },
+    {
+      "timestamp": "00:56",
+      "type": "positive",
+      "quote": "Great.",
+      "context": "Confirmation of selecting the tent type."
+    },
+    {
+      "timestamp": "01:10",
+      "type": "positive",
+      "quote": "The text box is a good size. I like that I can see what I'm typing.",
+      "context": "Commentary on the UI of the description field."
+    },
+    {
+      "timestamp": "01:29",
+      "type": "vocal_marker",
+      "quote": "Okay",
+      "context": "Transitioning to the availability section."
+    },
+    {
+      "timestamp": "01:37",
+      "type": "positive",
+      "quote": "That's easy enough.",
+      "context": "Reaction to the calendar instructions."
+    },
+    {
+      "timestamp": "01:43",
+      "type": "positive",
+      "quote": "Oh, they turn green when I click them. That's helpful visual feedback.",
+      "context": "Reaction to the interaction design of the calendar dates."
+    },
+    {
+      "timestamp": "02:01",
+      "type": "positive",
+      "quote": "This is pretty intuitive, honestly. Good.",
+      "context": "Summary of the availability selection task."
+    },
+    {
+      "timestamp": "02:21",
+      "type": "confused",
+      "quote": "What happens next?",
+      "context": "Brief moment of uncertainty while waiting for the Google login prompt."
+    },
+    {
+      "timestamp": "02:28",
+      "type": "vocal_marker",
+      "quote": "Okay",
+      "context": "Acknowledging the permission screen."
+    },
+    {
+      "timestamp": "02:48",
+      "type": "positive",
+      "quote": "I like that.",
+      "context": "Reaction to the 'automatically block dates' default setting."
+    },
+    {
+      "timestamp": "02:56",
+      "type": "positive",
+      "quote": "It's really smart.",
+      "context": "Overall impression of the calendar sync feature."
+    },
+    {
+      "timestamp": "03:17",
+      "type": "vocal_marker",
+      "quote": "Okay",
+      "context": "Transitioning to the 'My Calendar' view."
+    },
+    {
+      "timestamp": "03:32",
+      "type": "pause",
+      "duration": "2 seconds",
+      "context": "Participant pauses to verify the grayed-out dates against their personal calendar ('Let me check.')."
+    },
+    {
+      "timestamp": "03:41",
+      "type": "positive",
+      "quote": "This makes sense.",
+      "context": "Confirmation that the sync worked correctly."
+    }
+  ],
+  "verbal_sentiment": {
+    "positive_count": 11,
+    "negative_count": 0,
+    "positive_quotes": [
+      "This form is pretty straightforward.",
+      "The text box is a good size.",
+      "I like that I can see what I'm typing.",
+      "That's easy enough.",
+      "That's helpful visual feedback.",
+      "This is pretty intuitive, honestly.",
+      "I like that.",
+      "It's really smart.",
+      "This makes sense.",
+      "solves that problem before I even had it",
+      "Oh, nice."
+    ],
+    "negative_quotes": []
+  },
+  "summary": {
+    "total_pauses": 1,
+    "total_vocal_markers": 4,
+    "total_sighs": 0,
+    "overall_sentiment": "positive",
+    "task_completion": "successful"
+  }
+}

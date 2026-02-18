@@ -1,0 +1,22 @@
+# Secrets & Implementation Code
+.env
+.env.local
+*.pyc
+__pycache__/
+venv/
+.venv/
+
+# NEVER commit these - trade secrets
+scripts/
+src/
+implementation/
+prompts/
+
+# NEVER commit full datasets
+data/audio/
+data/results/
+data/scripts/
+
+# Keep only public examples
+!examples/
+!data/sample_script.txt

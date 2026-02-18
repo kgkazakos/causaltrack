@@ -1,0 +1,35 @@
+Moderator: Thanks for joining today's session. I'm going to ask you to try out AcmeCal, which is a platform for renting outdoor gear. You'll be playing the role of someone who owns gear and wants to rent it out. Just think aloud as you go, and let me know what you're thinking. There are no wrong answers here. Sound good?
+Participant: Yep, sounds great. I'm ready.
+Moderator: Perfect. So imagine you own a four-person camping tent that you'd like to rent out to earn some extra income. Your first task is to create a listing for this tent and set up when it's available. Go ahead and start whenever you're ready.
+Participant: Okay, so I'm on the homepage. I see a button that says "List Your Gear" right at the top. I'll click that. Oh nice, this form is pretty straightforward. It's asking for gear type, so I'll select "Camping & Hiking" from the dropdown. And then I see tent options here... I'll pick "Four-Person Tent."
+Moderator: Great, keep going.
+Participant: Now it wants a title and description. I'll just call it "Spacious 4-Person Camping Tent" and for the description I'll say it's great for families, waterproof, easy to set up. The text box is a good size, I like that I can see what I'm typing. Now it's asking for daily rental price. I think fifty dollars a day is fair, so I'll put that in.
+Moderator: And how's that going so far?
+Participant: Really smooth actually. Now I'm on the availability section. This is the part I was curious about. Okay, so there's a calendar view here showing this month and next month. The instructions say "Click dates to mark when your gear is available for rent." That's easy enough. I'll click on this upcoming weekend, Friday through Sunday. Oh, they turn green when I click them. That's helpful visual feedback.
+Participant: I'll also mark it available for the following weekend too. Just clicking the dates. And let me add a few weekdays in there, like next Tuesday and Wednesday since I won't be using it then. This is pretty intuitive, honestly.
+Moderator: Good. Anything else on this screen?
+Participant: Yeah, there's a section here that says "Sync with your calendar" and it's showing options for Google Calendar, Apple Calendar, and Outlook. I'll connect my Google Calendar since that's what I use. Clicking on Google Calendar now.
+Moderator: What happens next?
+Participant: It's asking me to sign in with Google, which makes sense. I'll use my regular account. Okay, it's asking for permission to view my calendar events. That's expected, I'll click "Allow." And now it's back to AcmeCal and I can see it says "Successfully connected to Google Calendar." There's a toggle here that says "Automatically block dates when you have events" and that's turned on by default. I like that, that means I don't have to manually update this every time I have camping plans.
+Moderator: How do you feel about that feature?
+Participant: It's really smart. I was actually wondering how I'd remember to update availability if I booked my own camping trip, so this solves that problem before I even had it.
+Moderator: Alright, let's move to the next part. I want you to check your calendar and see if the integration is working correctly. Go ahead and navigate to the calendar view.
+Participant: Sure. I see "My Calendar" in the top navigation, I'll click that. [pause 1s] Okay, so this is showing my listing calendar. I can see the dates I marked in green for available, and there are some dates blocked out in gray. Let me check... yes, those gray dates match up with events I have in my Google Calendar. Like I have a meeting on the 15th and that's showing as blocked here. This makes sense.
+Moderator: Can you tell me what you're seeing in terms of how the information is displayed?
+Participant: Yeah, so each date shows me the status. Available dates are green with "Available" written on them. Blocked dates from my calendar sync are gray and say "Blocked - Calendar Event." And then dates I haven't touched are just white. It's really clear at a glance what's going on. Oh, and I can toggle between month view and week view up here. Let me try week view. Nice, that gives me a more detailed look.
+Moderator: Is there anything you'd want to change about how this is working?
+Participant: Honestly? No, it's doing what I expected. I guess one thing that's nice is I can see the name of the calendar event when I hover over blocked dates. Like here it says "Hiking Trip - Yosemite" so I know exactly why that date is unavailable. That's a thoughtful detail.
+Moderator: Great. Last task - let's say you want to manually block out next month because you're planning a big trip but haven't put it in your calendar yet. Can you show me how you'd do that?
+Participant: Sure, easy. I'll jump to next month using this arrow. And I'll just click on the dates I want to block. Let me select the whole last week of next month. I'm clicking each day... and they're turning gray. Perfect. So now those dates won't be available for booking even though they're not in my Google Calendar yet.
+Moderator: How does that feel in terms of control?
+Participant: I like that I have both options - the automatic sync and manual control. It's flexible. I could see using the automatic sync most of the time but having the manual option for planning ahead.
+Moderator: Excellent. We're almost done. Just a few quick questions. Overall, how would you rate your experience creating this listing?
+Participant: I'd say really positive. It was faster than I expected and I didn't get confused at any point. Everything was where I thought it would be.
+Moderator: And the calendar sync feature specifically?
+Participant: That's probably my favorite part. I rent gear myself sometimes and I know it's annoying to manage availability, so having it auto-sync is a huge time saver. I'd definitely use this.
+Moderator: Is there anything that frustrated you or slowed you down?
+Participant: [pause 2s] Not really, no. I mean, maybe the sign-in with Google added an extra step, but that's pretty standard and it only happens once. Can't think of anything else.
+Moderator: Perfect. Last question - would you recommend this to someone else who rents out gear?
+Participant: Yeah, absolutely. Especially the calendar piece. That alone would sell it for me.
+Moderator: Great, that's everything. Thanks so much for your time today.
+Participant: No problem, happy to help!
