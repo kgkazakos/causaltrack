@@ -156,7 +156,7 @@ Can we automatically detect the Say-Do Gap by analyzing **audio behavioral cues*
 
 ## Demo Video
 
-🎬 **[Watch the 4-minute demo](https://youtu.be/FQNFdJjlWXQ)**
+🎬 **[Watch the demo](https://youtu.be/FQNFdJjlWXQ)**
 
 See the full methodology in action, including:
 - Live Neo4j graph queries
@@ -187,7 +187,7 @@ This is a **methodology validation study** with important limitations:
 3. **Controlled TTS voices** - Natural speech variation not tested
 4. **Single product domain** - B2B/Enterprise contexts may differ
 
-**Next step:** Recruiting 20 research teams for CHI 2027 validation study across diverse populations and contexts.
+**Next step:** Seeking research collaborators for academic conferences (e.g. CHI 2027 paper). Validation study across diverse populations and contexts.
 
 ---
 
