@@ -238,7 +238,7 @@ What's involved:
 - Validate findings against your expert judgment
 - Co-author credit on CHI submission (if desired)
 
-**Target:** 10+ researchers across diverse domains
+**Target:** Researchers or relevant roles across diverse domains
 
 ---
 
