@@ -255,7 +255,7 @@ Under these terms:
 - **Attribution required** - Credit this work appropriately
 - **Non-commercial** - Not for commercial use without permission
 
-For commercial licensing inquiries: kostas.kazakos@gmail.com
+For commercial licensing inquiries: kgkazakos@gmail.com
 
 ---
 
