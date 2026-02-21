@@ -235,7 +235,7 @@ To determine whether this methodology generalizes to real-world research, I am s
 
 📧 **[Sign up here](https://forms.gle/gXCPGQrTADiA41ix9)**
 
-**Target publication venues:** CHI por similar HCI/AI venues
+**Target publication venues:** CHI or similar HCI/AI venues
 
 ---
 
