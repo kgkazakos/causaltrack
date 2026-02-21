@@ -4,7 +4,7 @@
 
 > 🎓 Part of my Computational Product Research learning journey  
 > 📅 February 2026  
-> 🔬 Methodology validation study for CHI 2027
+> 🔬 Methodology validation study 
 
 <p align="center">
   <img src="examples/graph_visualization_black.png" alt="CausalTrack Knowledge Graph - 611 nodes" width="900"/>
