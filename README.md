@@ -4,7 +4,21 @@
 
 > 🎓 Part of my Computational Product Research learning journey  
 > 📅 February 2026  
-> 🔬 Methodology validation study 
+> 🔬 Methodology validation study for CHI 2027
+
+<p align="center">
+  <img src="examples/graph_visualization_black.png" alt="CausalTrack Knowledge Graph - 611 nodes" width="900"/>
+</p>
+
+<p align="center">
+  <em>Knowledge graph of 50 synthetic user interviews revealing the Say-Do Gap: 611 nodes (2 user segments, 50 interviews, 559 behavioral cues)</em>
+</p>
+
+---
+
+## The Problem
+
+Research shows that **42% of startup failures**... 
 
 ---
 
@@ -142,7 +156,7 @@ Can we automatically detect the Say-Do Gap by analyzing **audio behavioral cues*
 
 ## Demo Video
 
-🎬 **[Watch the 4-minute demo](#)** *(Link coming soon)*
+🎬 **[Watch the 4-minute demo](https://youtu.be/FQNFdJjlWXQ)**
 
 See the full methodology in action, including:
 - Live Neo4j graph queries
@@ -154,7 +168,7 @@ See the full methodology in action, including:
 
 ## White Paper
 
-📄 **[Read the full methodology paper](#)** *(Link coming soon)*
+📄 **[Read the full methodology paper](docs/WHITEPAPER.md)**
 
 Detailed explanation of:
 - Theoretical foundation (Social Desirability Bias)
@@ -212,11 +226,11 @@ This is a **methodology validation study** with important limitations:
 
 ## Methodology Validation Study
 
-**Seeking research collaborators for CHI 2027 paper.**
+**Seeking research collaborators for academic conferences (e.g. CHI 2027 paper).**
 
-If you're a UX researcher or product researcher interested in validating this methodology:
+If you're a UX researcher or product researcher or similar product roles interested in validating this methodology:
 
-📧 **[Sign up here](#)** *(Form coming soon)*
+📧 **[Sign up here](https://forms.gle/gXCPGQrTADiA41ix9)**
 
 What's involved:
 - Provide 1-2 real user research sessions (audio recordings)
@@ -224,7 +238,7 @@ What's involved:
 - Validate findings against your expert judgment
 - Co-author credit on CHI submission (if desired)
 
-**Target:** 20 research teams across diverse domains
+**Target:** 10+ researchers across diverse domains
 
 ---
 
