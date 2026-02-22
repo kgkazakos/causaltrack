@@ -1,4 +1,4 @@
-# CausalTrack: Audio-Based Behavioral Truth Detection
+# CausalTrack: Audio-Based Say-Do Gap Detection
 
 **A personal research project exploring multimodal AI for detecting the Say-Do Gap in user research.**
 
